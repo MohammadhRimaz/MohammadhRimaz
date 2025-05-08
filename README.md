@@ -106,7 +106,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" alt="LinkedIn Logo" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:mohammadhrimaz@gmail.com" target="_blank" rel="noopener noreferrer">
+  <a href="https://mohammadhrimaz@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="30" alt="Gmail Logo" />
   </a>
   &nbsp;&nbsp;&nbsp;
