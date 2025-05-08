@@ -103,10 +103,13 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mohammadh-rimaz-28673327b" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="20" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="30" alt="linkedin logo"  />
   </a>
   <a href="https://mohammadhrimaz@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="20" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="30" height="30" alt="gmail logo"  />
+  </a>
+  <a href="https://rimazportfolio.framer.website/" target="_blank">
+    <img src="https://images.creativefabrica.com/products/previews/2024/05/19/H7M7BBUjN/2gh4jPubmQgdnNd5SY0ItAxxK1y-mobile.jpg" width="30" height="30" alt="portfolio"  />
   </a>
 </div>
 
